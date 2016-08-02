@@ -1,6 +1,6 @@
 # Garden-of-Eden
 
-<i>Drag index.html into browser window to check out!</i><br>
+<i>Drag ProjectA.html into browser window to check out!</i><br>
 <b>User’s Guide:</b>
 
 <p>Welcome to the Garden of Eden! In the garden you can find Adam, the Tree of Knowledge, the tree’s fruit, and the infamous evil snake. 
